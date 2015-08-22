@@ -5,12 +5,12 @@ INSTRUCTIONS:
 
 Load your Rasperry Pi and make sure to install WiringPi:
 
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install git-core
-git clone git://git.drogon.net/wiringPi
-cd wiringPi
-./build
+- sudo apt-get update
+- sudo apt-get upgrade
+- sudo apt-get install git-core
+- git clone git://git.drogon.net/wiringPi
+- cd wiringPi
+- ./build
 
 Then, clone this repo to your Raspberry Pi, and then connect this circuit to the GPIO:
 
