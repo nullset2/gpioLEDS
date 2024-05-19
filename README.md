@@ -14,7 +14,7 @@ Load your Rasperry Pi and make sure to install WiringPi:
 
 Then, clone this repo to your Raspberry Pi, and then connect this circuit to the GPIO:
 
-https://dl.dropboxusercontent.com/u/22713174/circuit.png
+![_WjPskSx](https://github.com/nullset2/gpioLEDS/assets/1520184/a26eb3df-edd3-49ba-ba7b-dfd5f4f2bb25)
 
 And finally, compile the C script with the following gcc call:
 
